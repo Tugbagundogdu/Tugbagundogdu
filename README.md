@@ -4,17 +4,14 @@
 
 
 - 🔭 I'm a Jr. Frontend Developer
-- 🌱I am currently trying to improve myself.
+- 🌱I am currently trying to improve myself
 - 👯 I like to play chess
 
 <br>
 
 ### Reach Out To Me
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](link) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=quare&labelColor=000&logo=Gmail&logoColor=white&link=link)](link) 
-
-[linkedin]:https://www.linkedin.com/in/tuğba-gündoğdu/
-[Gmail]:tugba.gundgdu@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/tuğba-gündoğdu/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=quare&labelColor=000&logo=Gmail&logoColor=white&link=link)](tugba.gundgdu@gmail.com) 
 
 
 
