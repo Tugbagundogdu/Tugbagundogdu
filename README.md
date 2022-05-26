@@ -9,7 +9,7 @@
 
 <br>
 
-### Reach out to me
+### Reach Out To Me
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](link) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=quare&labelColor=000&logo=Gmail&logoColor=white&link=link)](link) 
 
