@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I'm a Jr. Frontend Developer
+- 🔭 I'm a Frontend Developer
 - 🌱I am currently trying to improve myself
 - 👯 I like to play chess
 
