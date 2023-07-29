@@ -29,6 +29,11 @@
 <img src ="https://github-readme-stats.vercel.app/api?username=Tugbagundogdu&theme=radical">
 
 
+### Profil İstatistikleri
+
+![Views](https://komarev.com/ghpvc/?username=Tugbagundogdu&color=green)
+
+
 
 
 
